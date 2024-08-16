@@ -25,3 +25,10 @@ admin-api： 管理后端
 - 项目提供了upload资源，下载后，放到项目的upload目录内：src/main/webapp/upload
 
 - 运行项目， http://localhost:8080/travel/index.html  管理员账户密码： admin/admin， 普通用户账号密码： 1234444444444/123456，或者自行注册
+![0](https://github.com/Learning-Journey-Treasures/bysj-014/blob/master/1.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-014/blob/master/2.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-014/blob/master/3.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-014/blob/master/4.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-014/blob/master/6.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-014/blob/master/7.png)
+![0](https://github.com/Learning-Journey-Treasures/bysj-014/blob/master/9.png)
